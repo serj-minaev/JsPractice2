@@ -9,19 +9,3 @@
     display: flex;
     flex-direction: column;
 }
-.container input{
-    margin: 5px 0;
-    padding: 2px 3px;
-}
-.container label{
-    font-size: small;
-    color: #806a6a;
-}
-
-#name, #budget, #budget2{
-    cursor: not-allowed;
-}
-
-.num, .num-umn, .mathpow{
-    text-align: center;
-}
